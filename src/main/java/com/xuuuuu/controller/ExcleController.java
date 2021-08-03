@@ -102,8 +102,8 @@ public class ExcleController {
                 writer.finish();
         }
 //        输出。
-        System.out.println("导出成功");
-        System.out.println("6666666666666666666666666666666666");
+//        System.out.println("导出成功");
+//        System.out.println("6666666666666666666666666666666666");
 
         return "index";
     }
